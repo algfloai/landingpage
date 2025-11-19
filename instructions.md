@@ -1,3 +1,0 @@
-I want to create a slick looking landing page for algflo.ai. The page should have a modern and clean design. As a starter I want to just have the company name and a tagline. The tagline should be "Think. Orchestrate. Repeat. Workflows powered by intelligence.". The company name should be "algflo.ai". The page should have a dark theme.
-
-This will be hosted on github static page. I will provide the github repository to you. We will also configure the custom domain on github page with algflo.ai. We will also configure the SSL certificate for the custom domain. We will also configure the github actions to deploy the static page. We will also configure Porkbun to direct the custom domain to github page.
